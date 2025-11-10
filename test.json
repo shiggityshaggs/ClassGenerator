@@ -1,0 +1,20 @@
+{
+    "Categories": {
+        "Cat1": {
+            "SortTitle": "SortTitle1",
+            "SubTitle": "SubTitle1",
+            "Title": "Title1"
+        },
+        "Cat2": {
+            "Title": "Title2"
+        },
+        "Cat3": {
+            "SubTitle": "SubTitle3",
+            "Title": "Title3"
+        },
+        "Cat4": {
+            "SortTitle": "SortTitle4",
+            "Title": "Title4"
+        }
+    }
+}
